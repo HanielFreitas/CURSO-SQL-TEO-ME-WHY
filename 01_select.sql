@@ -1,2 +1,3 @@
-SELECT IdCliente,qtdePontos,DtCriacao FROM clientes
+SELECT *
+FROM clientes
 LIMIT 10;
